@@ -23,6 +23,7 @@ Where:
 2. Enter the rate of interest
 3. Enter the time period
 4. Get the simple interest result
-
+Fixed typo in README
 ## License
 This project is licensed under the Apache 2.0 License.
+Fixed typo in README
